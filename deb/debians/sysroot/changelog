@@ -8,7 +8,7 @@ roborio-sysroot (1.1) stable; urgency=low
 
   * Making into empty transitional package
 
- -- Patrick Plenefisch <phplenefisch@wpi.edu>  Wed, 10 Sept 2014 18:05:51 -0400
+ -- Patrick Plenefisch <phplenefisch@wpi.edu>  Wed, 10 Sep 2014 18:05:51 -0400
 
 roborio-sysroot (1.0-1) stable; urgency=low
 
