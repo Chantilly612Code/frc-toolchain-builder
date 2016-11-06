@@ -17,4 +17,11 @@ The compiler that is built for the FRC RoboRIO arm architecture uses gcc-4.9 .  
 
 A install-dependencies.sh file will install the necessary support programs and libraries to build the Ubuntu/Debian .deb files.
 
+Instructions
+============
+
+1. Make your system use gcc-4.9 and g++-4.9 for `/usr/bin/gcc` and `/usr/bin/g++` (switch back to original compiler version after this build is complete)
+1. Run `download.sh` to retrieve the necessary source files
+1. Run `install-dependencies.sh` to install build dependencies
+1. Run `cd deb` and then `make`
 
